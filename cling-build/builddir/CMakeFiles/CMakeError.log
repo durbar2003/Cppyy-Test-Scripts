@@ -1,0 +1,580 @@
+Determining if the include file malloc/malloc.h exists failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-Yd3mAF
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_262c7/fast && /usr/bin/make  -f CMakeFiles/cmTC_262c7.dir/build.make CMakeFiles/cmTC_262c7.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-Yd3mAF'
+Building C object CMakeFiles/cmTC_262c7.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_262c7.dir/CheckIncludeFile.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-Yd3mAF/CheckIncludeFile.c
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-Yd3mAF/CheckIncludeFile.c:1:10: fatal error: malloc/malloc.h: No such file or directory
+    1 | #include <malloc/malloc.h>
+      |          ^~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_262c7.dir/build.make:78: CMakeFiles/cmTC_262c7.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-Yd3mAF'
+make: *** [Makefile:127: cmTC_262c7/fast] Error 2
+
+
+
+Determining if the include file valgrind/valgrind.h exists failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-5gF8Qx
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_a3a8d/fast && /usr/bin/make  -f CMakeFiles/cmTC_a3a8d.dir/build.make CMakeFiles/cmTC_a3a8d.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-5gF8Qx'
+Building C object CMakeFiles/cmTC_a3a8d.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_a3a8d.dir/CheckIncludeFile.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-5gF8Qx/CheckIncludeFile.c
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-5gF8Qx/CheckIncludeFile.c:1:10: fatal error: valgrind/valgrind.h: No such file or directory
+    1 | #include <valgrind/valgrind.h>
+      |          ^~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_a3a8d.dir/build.make:78: CMakeFiles/cmTC_a3a8d.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-5gF8Qx'
+make: *** [Makefile:127: cmTC_a3a8d/fast] Error 2
+
+
+
+Determining if the include file mach/mach.h exists failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-cfw68J
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_d49c8/fast && /usr/bin/make  -f CMakeFiles/cmTC_d49c8.dir/build.make CMakeFiles/cmTC_d49c8.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-cfw68J'
+Building C object CMakeFiles/cmTC_d49c8.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_d49c8.dir/CheckIncludeFile.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-cfw68J/CheckIncludeFile.c
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-cfw68J/CheckIncludeFile.c:1:10: fatal error: mach/mach.h: No such file or directory
+    1 | #include <mach/mach.h>
+      |          ^~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_d49c8.dir/build.make:78: CMakeFiles/cmTC_d49c8.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-cfw68J'
+make: *** [Makefile:127: cmTC_d49c8/fast] Error 2
+
+
+
+Determining if the include file CrashReporterClient.h exists failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-zFnlUn
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_62a5e/fast && /usr/bin/make  -f CMakeFiles/cmTC_62a5e.dir/build.make CMakeFiles/cmTC_62a5e.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-zFnlUn'
+Building C object CMakeFiles/cmTC_62a5e.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_62a5e.dir/CheckIncludeFile.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-zFnlUn/CheckIncludeFile.c
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-zFnlUn/CheckIncludeFile.c:1:10: fatal error: CrashReporterClient.h: No such file or directory
+    1 | #include <CrashReporterClient.h>
+      |          ^~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_62a5e.dir/build.make:78: CMakeFiles/cmTC_62a5e.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-zFnlUn'
+make: *** [Makefile:127: cmTC_62a5e/fast] Error 2
+
+
+
+Determining if the function pfm_initialize exists in the pfm failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-3nH8VL
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_4d607/fast && /usr/bin/make  -f CMakeFiles/cmTC_4d607.dir/build.make CMakeFiles/cmTC_4d607.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-3nH8VL'
+Building C object CMakeFiles/cmTC_4d607.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pfm_initialize -o CMakeFiles/cmTC_4d607.dir/CheckFunctionExists.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-3nH8VL/CheckFunctionExists.c
+Linking C executable cmTC_4d607
+/home/durbar/.local/lib/python3.10/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4d607.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pfm_initialize CMakeFiles/cmTC_4d607.dir/CheckFunctionExists.c.o -o cmTC_4d607  -lpfm -lm 
+/usr/bin/ld: cannot find -lpfm: No such file or directory
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_4d607.dir/build.make:99: cmTC_4d607] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-3nH8VL'
+make: *** [Makefile:127: cmTC_4d607/fast] Error 2
+
+
+
+Determining if the function xar_open exists in the xar failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-5zQ5rR
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_72d9f/fast && /usr/bin/make  -f CMakeFiles/cmTC_72d9f.dir/build.make CMakeFiles/cmTC_72d9f.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-5zQ5rR'
+Building C object CMakeFiles/cmTC_72d9f.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=xar_open -o CMakeFiles/cmTC_72d9f.dir/CheckFunctionExists.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-5zQ5rR/CheckFunctionExists.c
+Linking C executable cmTC_72d9f
+/home/durbar/.local/lib/python3.10/site-packages/cmake/data/bin/cmake -E cmake_link_script CMakeFiles/cmTC_72d9f.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=xar_open CMakeFiles/cmTC_72d9f.dir/CheckFunctionExists.c.o -o cmTC_72d9f  -lxar -lm 
+/usr/bin/ld: cannot find -lxar: No such file or directory
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_72d9f.dir/build.make:99: cmTC_72d9f] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-5zQ5rR'
+make: *** [Makefile:127: cmTC_72d9f/fast] Error 2
+
+
+
+Performing C SOURCE FILE Test C_SUPPORTS_WERROR_UNGUARDED_AVAILABILITY_NEW failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-ngJbm5
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_89f8b/fast && /usr/bin/make  -f CMakeFiles/cmTC_89f8b.dir/build.make CMakeFiles/cmTC_89f8b.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-ngJbm5'
+Building C object CMakeFiles/cmTC_89f8b.dir/src.c.o
+/usr/bin/cc -DC_SUPPORTS_WERROR_UNGUARDED_AVAILABILITY_NEW  -Werror=unguarded-availability-new -o CMakeFiles/cmTC_89f8b.dir/src.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-ngJbm5/src.c
+cc1: error: '-Werror=unguarded-availability-new': no option '-Wunguarded-availability-new'
+make[1]: *** [CMakeFiles/cmTC_89f8b.dir/build.make:78: CMakeFiles/cmTC_89f8b.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-ngJbm5'
+make: *** [Makefile:127: cmTC_89f8b/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+
+Determining if the mallctl exist failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-P60iEK
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_cb191/fast && /usr/bin/make  -f CMakeFiles/cmTC_cb191.dir/build.make CMakeFiles/cmTC_cb191.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-P60iEK'
+Building C object CMakeFiles/cmTC_cb191.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_cb191.dir/CheckSymbolExists.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-P60iEK/CheckSymbolExists.c
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-P60iEK/CheckSymbolExists.c:2:10: fatal error: malloc_np.h: No such file or directory
+    2 | #include <malloc_np.h>
+      |          ^~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_cb191.dir/build.make:78: CMakeFiles/cmTC_cb191.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-P60iEK'
+make: *** [Makefile:127: cmTC_cb191/fast] Error 2
+
+
+File CheckSymbolExists.c:
+/* */
+#include <malloc_np.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef mallctl
+  return ((int*)(&mallctl))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the malloc_zone_statistics exist failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-EdW36M
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_bc647/fast && /usr/bin/make  -f CMakeFiles/cmTC_bc647.dir/build.make CMakeFiles/cmTC_bc647.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-EdW36M'
+Building C object CMakeFiles/cmTC_bc647.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_bc647.dir/CheckSymbolExists.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-EdW36M/CheckSymbolExists.c
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-EdW36M/CheckSymbolExists.c:2:10: fatal error: malloc/malloc.h: No such file or directory
+    2 | #include <malloc/malloc.h>
+      |          ^~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_bc647.dir/build.make:78: CMakeFiles/cmTC_bc647.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-EdW36M'
+make: *** [Makefile:127: cmTC_bc647/fast] Error 2
+
+
+File CheckSymbolExists.c:
+/* */
+#include <malloc/malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef malloc_zone_statistics
+  return ((int*)(&malloc_zone_statistics))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the strerror_s exist failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-KFxcxO
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_106d3/fast && /usr/bin/make  -f CMakeFiles/cmTC_106d3.dir/build.make CMakeFiles/cmTC_106d3.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-KFxcxO'
+Building C object CMakeFiles/cmTC_106d3.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_106d3.dir/CheckSymbolExists.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-KFxcxO/CheckSymbolExists.c
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-KFxcxO/CheckSymbolExists.c: In function ‘main’:
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-KFxcxO/CheckSymbolExists.c:8:19: error: ‘strerror_s’ undeclared (first use in this function); did you mean ‘strerror_l’?
+    8 |   return ((int*)(&strerror_s))[argc];
+      |                   ^~~~~~~~~~
+      |                   strerror_l
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-KFxcxO/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+make[1]: *** [CMakeFiles/cmTC_106d3.dir/build.make:78: CMakeFiles/cmTC_106d3.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-KFxcxO'
+make: *** [Makefile:127: cmTC_106d3/fast] Error 2
+
+
+File CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strerror_s
+  return ((int*)(&strerror_s))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the dladdr exist failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-usqruw
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_7a690/fast && /usr/bin/make  -f CMakeFiles/cmTC_7a690.dir/build.make CMakeFiles/cmTC_7a690.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-usqruw'
+Building C object CMakeFiles/cmTC_7a690.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_7a690.dir/CheckSymbolExists.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-usqruw/CheckSymbolExists.c
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-usqruw/CheckSymbolExists.c: In function ‘main’:
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-usqruw/CheckSymbolExists.c:8:19: error: ‘dladdr’ undeclared (first use in this function)
+    8 |   return ((int*)(&dladdr))[argc];
+      |                   ^~~~~~
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-usqruw/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+make[1]: *** [CMakeFiles/cmTC_7a690.dir/build.make:78: CMakeFiles/cmTC_7a690.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-usqruw'
+make: *** [Makefile:127: cmTC_7a690/fast] Error 2
+
+
+File CheckSymbolExists.c:
+/* */
+#include <dlfcn.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef dladdr
+  return ((int*)(&dladdr))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C SOURCE FILE Test HAVE_STRUCT_STAT_ST_MTIMESPEC_TV_NSEC failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-yKbROx
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_e5377/fast && /usr/bin/make  -f CMakeFiles/cmTC_e5377.dir/build.make CMakeFiles/cmTC_e5377.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-yKbROx'
+Building C object CMakeFiles/cmTC_e5377.dir/src.c.o
+/usr/bin/cc -DHAVE_STRUCT_STAT_ST_MTIMESPEC_TV_NSEC   -o CMakeFiles/cmTC_e5377.dir/src.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-yKbROx/src.c
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-yKbROx/src.c: In function ‘main’:
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-yKbROx/src.c:7:34: error: ‘struct stat’ has no member named ‘st_mtimespec’
+    7 |   (void)sizeof(((struct stat *)0)->st_mtimespec.tv_nsec);
+      |                                  ^~
+make[1]: *** [CMakeFiles/cmTC_e5377.dir/build.make:78: CMakeFiles/cmTC_e5377.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-yKbROx'
+make: *** [Makefile:127: cmTC_e5377/fast] Error 2
+
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/stat.h>
+
+int main()
+{
+  (void)sizeof(((struct stat *)0)->st_mtimespec.tv_nsec);
+  return 0;
+}
+
+
+Determining if the proc_pid_rusage exist failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-lTnxCN
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_5d2a0/fast && /usr/bin/make  -f CMakeFiles/cmTC_5d2a0.dir/build.make CMakeFiles/cmTC_5d2a0.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-lTnxCN'
+Building C object CMakeFiles/cmTC_5d2a0.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE   -o CMakeFiles/cmTC_5d2a0.dir/CheckSymbolExists.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-lTnxCN/CheckSymbolExists.c
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-lTnxCN/CheckSymbolExists.c:2:10: fatal error: libproc.h: No such file or directory
+    2 | #include <libproc.h>
+      |          ^~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_5d2a0.dir/build.make:78: CMakeFiles/cmTC_5d2a0.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-lTnxCN'
+make: *** [Makefile:127: cmTC_5d2a0/fast] Error 2
+
+
+File CheckSymbolExists.c:
+/* */
+#include <libproc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef proc_pid_rusage
+  return ((int*)(&proc_pid_rusage))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C++ SOURCE FILE Test SUPPORTS_GNU_ZERO_VARIADIC_MACRO_ARGUMENTS_FLAG failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-EO7jqH
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_4d9cf/fast && /usr/bin/make  -f CMakeFiles/cmTC_4d9cf.dir/build.make CMakeFiles/cmTC_4d9cf.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-EO7jqH'
+Building CXX object CMakeFiles/cmTC_4d9cf.dir/src.cxx.o
+/usr/bin/c++ -DSUPPORTS_GNU_ZERO_VARIADIC_MACRO_ARGUMENTS_FLAG  -Wgnu-zero-variadic-macro-arguments -std=c++14 -o CMakeFiles/cmTC_4d9cf.dir/src.cxx.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-EO7jqH/src.cxx
+c++: error: unrecognized command-line option '-Wgnu-zero-variadic-macro-arguments'
+make[1]: *** [CMakeFiles/cmTC_4d9cf.dir/build.make:78: CMakeFiles/cmTC_4d9cf.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-EO7jqH'
+make: *** [Makefile:127: cmTC_4d9cf/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_WERROR_UNGUARDED_AVAILABILITY_NEW failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-2vlyO6
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_3f5a6/fast && /usr/bin/make  -f CMakeFiles/cmTC_3f5a6.dir/build.make CMakeFiles/cmTC_3f5a6.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-2vlyO6'
+Building CXX object CMakeFiles/cmTC_3f5a6.dir/src.cxx.o
+/usr/bin/c++ -DCXX_SUPPORTS_WERROR_UNGUARDED_AVAILABILITY_NEW  -fPIC -fno-semantic-interposition -fvisibility-inlines-hidden -Werror=date-time    -Werror -Werror=unguarded-availability-new -std=c++14 -o CMakeFiles/cmTC_3f5a6.dir/src.cxx.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-2vlyO6/src.cxx
+cc1plus: error: '-Werror=unguarded-availability-new': no option '-Wunguarded-availability-new'
+make[1]: *** [CMakeFiles/cmTC_3f5a6.dir/build.make:78: CMakeFiles/cmTC_3f5a6.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-2vlyO6'
+make: *** [Makefile:127: cmTC_3f5a6/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C SOURCE FILE Test C_SUPPORTS_CXX98_COMPAT_EXTRA_SEMI_FLAG failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-nKCl2S
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_02095/fast && /usr/bin/make  -f CMakeFiles/cmTC_02095.dir/build.make CMakeFiles/cmTC_02095.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-nKCl2S'
+Building C object CMakeFiles/cmTC_02095.dir/src.c.o
+/usr/bin/cc -DC_SUPPORTS_CXX98_COMPAT_EXTRA_SEMI_FLAG  -fPIC -fno-semantic-interposition -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long    -Werror -Wc++98-compat-extra-semi -o CMakeFiles/cmTC_02095.dir/src.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-nKCl2S/src.c
+cc: error: unrecognized command-line option '-Wc++98-compat-extra-semi'
+make[1]: *** [CMakeFiles/cmTC_02095.dir/build.make:78: CMakeFiles/cmTC_02095.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-nKCl2S'
+make: *** [Makefile:127: cmTC_02095/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_CXX98_COMPAT_EXTRA_SEMI_FLAG failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-hnTqwj
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_dd46b/fast && /usr/bin/make  -f CMakeFiles/cmTC_dd46b.dir/build.make CMakeFiles/cmTC_dd46b.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-hnTqwj'
+Building CXX object CMakeFiles/cmTC_dd46b.dir/src.cxx.o
+/usr/bin/c++ -DCXX_SUPPORTS_CXX98_COMPAT_EXTRA_SEMI_FLAG  -fPIC -fno-semantic-interposition -fvisibility-inlines-hidden -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long    -Werror -Wc++98-compat-extra-semi -std=c++14 -o CMakeFiles/cmTC_dd46b.dir/src.cxx.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-hnTqwj/src.cxx
+c++: error: unrecognized command-line option '-Wc++98-compat-extra-semi'
+make[1]: *** [CMakeFiles/cmTC_dd46b.dir/build.make:78: CMakeFiles/cmTC_dd46b.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-hnTqwj'
+make: *** [Makefile:127: cmTC_dd46b/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C SOURCE FILE Test C_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-QqpJ1t
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_7c910/fast && /usr/bin/make  -f CMakeFiles/cmTC_7c910.dir/build.make CMakeFiles/cmTC_7c910.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-QqpJ1t'
+Building C object CMakeFiles/cmTC_7c910.dir/src.c.o
+/usr/bin/cc -DC_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG  -fPIC -fno-semantic-interposition -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wimplicit-fallthrough    -Werror -Wcovered-switch-default -o CMakeFiles/cmTC_7c910.dir/src.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-QqpJ1t/src.c
+cc: error: unrecognized command-line option '-Wcovered-switch-default'; did you mean '-Wno-switch-default'?
+make[1]: *** [CMakeFiles/cmTC_7c910.dir/build.make:78: CMakeFiles/cmTC_7c910.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-QqpJ1t'
+make: *** [Makefile:127: cmTC_7c910/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-juGfmH
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_997c0/fast && /usr/bin/make  -f CMakeFiles/cmTC_997c0.dir/build.make CMakeFiles/cmTC_997c0.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-juGfmH'
+Building CXX object CMakeFiles/cmTC_997c0.dir/src.cxx.o
+/usr/bin/c++ -DCXX_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG  -fPIC -fno-semantic-interposition -fvisibility-inlines-hidden -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wimplicit-fallthrough    -Werror -Wcovered-switch-default -std=c++14 -o CMakeFiles/cmTC_997c0.dir/src.cxx.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-juGfmH/src.cxx
+c++: error: unrecognized command-line option '-Wcovered-switch-default'; did you mean '-Wno-switch-default'?
+make[1]: *** [CMakeFiles/cmTC_997c0.dir/build.make:78: CMakeFiles/cmTC_997c0.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-juGfmH'
+make: *** [Makefile:127: cmTC_997c0/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C SOURCE FILE Test C_SUPPORTS_DELETE_NON_VIRTUAL_DTOR_FLAG failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-V25udq
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_600fe/fast && /usr/bin/make  -f CMakeFiles/cmTC_600fe.dir/build.make CMakeFiles/cmTC_600fe.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-V25udq'
+Building C object CMakeFiles/cmTC_600fe.dir/src.c.o
+/usr/bin/cc -DC_SUPPORTS_DELETE_NON_VIRTUAL_DTOR_FLAG  -fPIC -fno-semantic-interposition -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wimplicit-fallthrough    -Werror -Wdelete-non-virtual-dtor -o CMakeFiles/cmTC_600fe.dir/src.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-V25udq/src.c
+cc1: error: command-line option '-Wdelete-non-virtual-dtor' is valid for C++/ObjC++ but not for C [-Werror]
+cc1: all warnings being treated as errors
+make[1]: *** [CMakeFiles/cmTC_600fe.dir/build.make:78: CMakeFiles/cmTC_600fe.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-V25udq'
+make: *** [Makefile:127: cmTC_600fe/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+
+Performing C SOURCE FILE Test C_WCOMMENT_ALLOWS_LINE_WRAP failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-H3lpik
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_28a7b/fast && /usr/bin/make  -f CMakeFiles/cmTC_28a7b.dir/build.make CMakeFiles/cmTC_28a7b.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-H3lpik'
+Building C object CMakeFiles/cmTC_28a7b.dir/src.c.o
+/usr/bin/cc -DC_WCOMMENT_ALLOWS_LINE_WRAP -D_GNU_SOURCE  -fPIC -fno-semantic-interposition -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wimplicit-fallthrough  -Werror -Wcomment -o CMakeFiles/cmTC_28a7b.dir/src.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-H3lpik/src.c
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-H3lpik/src.c:1:1: error: multi-line comment [-Werror=comment]
+    1 | // \
+      | ^
+cc1: all warnings being treated as errors
+make[1]: *** [CMakeFiles/cmTC_28a7b.dir/build.make:78: CMakeFiles/cmTC_28a7b.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-H3lpik'
+make: *** [Makefile:127: cmTC_28a7b/fast] Error 2
+
+
+Source file was:
+// \
+//
+int main() {return 0;}
+
+Performing C SOURCE FILE Test C_SUPPORTS_STRING_CONVERSION_FLAG failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-2TKQyj
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_293c5/fast && /usr/bin/make  -f CMakeFiles/cmTC_293c5.dir/build.make CMakeFiles/cmTC_293c5.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-2TKQyj'
+Building C object CMakeFiles/cmTC_293c5.dir/src.c.o
+/usr/bin/cc -DC_SUPPORTS_STRING_CONVERSION_FLAG  -fPIC -fno-semantic-interposition -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wimplicit-fallthrough -Wno-comment    -Werror -Wstring-conversion -o CMakeFiles/cmTC_293c5.dir/src.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-2TKQyj/src.c
+cc: error: unrecognized command-line option '-Wstring-conversion'; did you mean '-Wsign-conversion'?
+make[1]: *** [CMakeFiles/cmTC_293c5.dir/build.make:78: CMakeFiles/cmTC_293c5.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-2TKQyj'
+make: *** [Makefile:127: cmTC_293c5/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_STRING_CONVERSION_FLAG failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-AY5evY
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_c9476/fast && /usr/bin/make  -f CMakeFiles/cmTC_c9476.dir/build.make CMakeFiles/cmTC_c9476.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-AY5evY'
+Building CXX object CMakeFiles/cmTC_c9476.dir/src.cxx.o
+/usr/bin/c++ -DCXX_SUPPORTS_STRING_CONVERSION_FLAG  -fPIC -fno-semantic-interposition -fvisibility-inlines-hidden -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wimplicit-fallthrough -Wno-maybe-uninitialized -Wno-class-memaccess -Wno-redundant-move -Wno-pessimizing-move -Wno-noexcept-type -Wdelete-non-virtual-dtor -Wsuggest-override -Wno-comment    -Werror -Wstring-conversion -std=c++14 -o CMakeFiles/cmTC_c9476.dir/src.cxx.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-AY5evY/src.cxx
+c++: error: unrecognized command-line option '-Wstring-conversion'; did you mean '-Wsign-conversion'?
+make[1]: *** [CMakeFiles/cmTC_c9476.dir/build.make:78: CMakeFiles/cmTC_c9476.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-AY5evY'
+make: *** [Makefile:127: cmTC_c9476/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+
+Determining if the os_signpost_interval_begin exist failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-fsQUkl
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_2440c/fast && /usr/bin/make  -f CMakeFiles/cmTC_2440c.dir/build.make CMakeFiles/cmTC_2440c.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-fsQUkl'
+Building C object CMakeFiles/cmTC_2440c.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -fPIC -fno-semantic-interposition -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wimplicit-fallthrough -Wno-comment -Wmisleading-indentation  -o CMakeFiles/cmTC_2440c.dir/CheckSymbolExists.c.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-fsQUkl/CheckSymbolExists.c
+/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-fsQUkl/CheckSymbolExists.c:2:10: fatal error: os/signpost.h: No such file or directory
+    2 | #include <os/signpost.h>
+      |          ^~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_2440c.dir/build.make:78: CMakeFiles/cmTC_2440c.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-fsQUkl'
+make: *** [Makefile:127: cmTC_2440c/fast] Error 2
+
+
+File CheckSymbolExists.c:
+/* */
+#include <os/signpost.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef os_signpost_interval_begin
+  return ((int*)(&os_signpost_interval_begin))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C++ SOURCE FILE Test HAS_WERROR_GLOBAL_CTORS failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-XhHdSE
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_696fb/fast && /usr/bin/make  -f CMakeFiles/cmTC_696fb.dir/build.make CMakeFiles/cmTC_696fb.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-XhHdSE'
+Building CXX object CMakeFiles/cmTC_696fb.dir/src.cxx.o
+/usr/bin/c++ -DHAS_WERROR_GLOBAL_CTORS  -fPIC -fno-semantic-interposition -fvisibility-inlines-hidden -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wimplicit-fallthrough -Wno-maybe-uninitialized -Wno-class-memaccess -Wno-redundant-move -Wno-pessimizing-move -Wno-noexcept-type -Wdelete-non-virtual-dtor -Wsuggest-override -Wno-comment -Wmisleading-indentation    -Werror=global-constructors -std=c++14 -o CMakeFiles/cmTC_696fb.dir/src.cxx.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-XhHdSE/src.cxx
+cc1plus: error: '-Werror=global-constructors': no option '-Wglobal-constructors'; did you mean '-felide-constructors'?
+make[1]: *** [CMakeFiles/cmTC_696fb.dir/build.make:78: CMakeFiles/cmTC_696fb.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-XhHdSE'
+make: *** [Makefile:127: cmTC_696fb/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_NO_NESTED_ANON_TYPES_FLAG failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-ezyhwh
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_588db/fast && /usr/bin/make  -f CMakeFiles/cmTC_588db.dir/build.make CMakeFiles/cmTC_588db.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-ezyhwh'
+Building CXX object CMakeFiles/cmTC_588db.dir/src.cxx.o
+/usr/bin/c++ -DCXX_SUPPORTS_NO_NESTED_ANON_TYPES_FLAG  -fPIC -fno-semantic-interposition -fvisibility-inlines-hidden -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wimplicit-fallthrough -Wno-maybe-uninitialized -Wno-class-memaccess -Wno-redundant-move -Wno-pessimizing-move -Wno-noexcept-type -Wdelete-non-virtual-dtor -Wsuggest-override -Wno-comment -Wmisleading-indentation -fno-common -Woverloaded-virtual -fno-strict-aliasing    -Werror -Wnested-anon-types -std=c++14 -o CMakeFiles/cmTC_588db.dir/src.cxx.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-ezyhwh/src.cxx
+c++: error: unrecognized command-line option '-Wnested-anon-types'
+make[1]: *** [CMakeFiles/cmTC_588db.dir/build.make:78: CMakeFiles/cmTC_588db.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-ezyhwh'
+make: *** [Makefile:127: cmTC_588db/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WSHORTEN_64_TO_32 failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-0DmmKp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_95d9a/fast && /usr/bin/make  -f CMakeFiles/cmTC_95d9a.dir/build.make CMakeFiles/cmTC_95d9a.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-0DmmKp'
+Building CXX object CMakeFiles/cmTC_95d9a.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_CXX_FLAG_WSHORTEN_64_TO_32  -fPIC -fno-semantic-interposition -fvisibility-inlines-hidden -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wimplicit-fallthrough -Wno-maybe-uninitialized -Wno-class-memaccess -Wno-redundant-move -Wno-pessimizing-move -Wno-noexcept-type -Wdelete-non-virtual-dtor -Wsuggest-override -Wno-comment -Wmisleading-indentation  -std=c++11  -Wall  -Wextra  -Wshadow  -pedantic  -pedantic-errors  -Wshorten-64-to-32   -Wshorten-64-to-32 -std=c++14 -o CMakeFiles/cmTC_95d9a.dir/src.cxx.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-0DmmKp/src.cxx
+c++: error: unrecognized command-line option '-Wshorten-64-to-32'
+c++: error: unrecognized command-line option '-Wshorten-64-to-32'
+make[1]: *** [CMakeFiles/cmTC_95d9a.dir/build.make:78: CMakeFiles/cmTC_95d9a.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-0DmmKp'
+make: *** [Makefile:127: cmTC_95d9a/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WD654 failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-TjeRtg
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_ac5db/fast && /usr/bin/make  -f CMakeFiles/cmTC_ac5db.dir/build.make CMakeFiles/cmTC_ac5db.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-TjeRtg'
+Building CXX object CMakeFiles/cmTC_ac5db.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_CXX_FLAG_WD654  -fPIC -fno-semantic-interposition -fvisibility-inlines-hidden -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wimplicit-fallthrough -Wno-maybe-uninitialized -Wno-class-memaccess -Wno-redundant-move -Wno-pessimizing-move -Wno-noexcept-type -Wdelete-non-virtual-dtor -Wsuggest-override -Wno-comment -Wmisleading-indentation  -std=c++11  -Wall  -Wextra  -Wshadow  -pedantic  -pedantic-errors  -Wfloat-equal  -fstrict-aliasing  -fno-exceptions  -Wno-suggest-override  -Wstrict-aliasing  -wd654   -wd654 -std=c++14 -o CMakeFiles/cmTC_ac5db.dir/src.cxx.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-TjeRtg/src.cxx
+c++: error: unrecognized command-line option '-wd654'
+c++: error: unrecognized command-line option '-wd654'
+make[1]: *** [CMakeFiles/cmTC_ac5db.dir/build.make:78: CMakeFiles/cmTC_ac5db.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-TjeRtg'
+make: *** [Makefile:127: cmTC_ac5db/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WTHREAD_SAFETY failed with the following output:
+Change Dir: /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-VUBeLL
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_c76da/fast && /usr/bin/make  -f CMakeFiles/cmTC_c76da.dir/build.make CMakeFiles/cmTC_c76da.dir/build
+make[1]: Entering directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-VUBeLL'
+Building CXX object CMakeFiles/cmTC_c76da.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_CXX_FLAG_WTHREAD_SAFETY  -fPIC -fno-semantic-interposition -fvisibility-inlines-hidden -Werror=date-time -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wimplicit-fallthrough -Wno-maybe-uninitialized -Wno-class-memaccess -Wno-redundant-move -Wno-pessimizing-move -Wno-noexcept-type -Wdelete-non-virtual-dtor -Wsuggest-override -Wno-comment -Wmisleading-indentation  -std=c++11  -Wall  -Wextra  -Wshadow  -pedantic  -pedantic-errors  -Wfloat-equal  -fstrict-aliasing  -fno-exceptions  -Wno-suggest-override  -Wstrict-aliasing  -Wthread-safety   -Wthread-safety -std=c++14 -o CMakeFiles/cmTC_c76da.dir/src.cxx.o -c /home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-VUBeLL/src.cxx
+c++: error: unrecognized command-line option '-Wthread-safety'
+c++: error: unrecognized command-line option '-Wthread-safety'
+make[1]: *** [CMakeFiles/cmTC_c76da.dir/build.make:78: CMakeFiles/cmTC_c76da.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/durbar/Documents/Coding/Cppyy-Test-Scripts/cling-build/builddir/CMakeFiles/CMakeScratch/TryCompile-VUBeLL'
+make: *** [Makefile:127: cmTC_c76da/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+
